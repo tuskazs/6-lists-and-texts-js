@@ -1,0 +1,15 @@
+h1{
+  color:red;
+}
+h2{
+  color: purple;
+}
+.roman {
+  list-style-type: upper-roman;
+  text-decoration: underline;
+  color:  #F000FF;
+}
+.exception{
+  color: black;
+  text-decoration: underline black;
+}
